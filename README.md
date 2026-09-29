@@ -26,12 +26,20 @@
 - 回旋相关的战斗与视觉效果
 - 披萨食物彩蛋
 
-### 安装
+## 运行环境
 
-1. 安装对应版本的 **Fabric Loader**。
-2. 安装所需的 **Fabric API**。
-3. 从 GitHub Releases 或 CurseForge 下载模组 `.jar` 文件。
-4. 将 `.jar` 放入 Minecraft 的 `mods` 文件夹。
+- Minecraft Java 版 `1.21.1`
+- Fabric Loader `0.19.3` 或更高版本
+- Fabric API
+- Java `21` 或更高版本
+- 单人游戏：客户端安装模组和 Fabric API
+- 多人游戏：服务端与每位客户端都安装相同版本的模组和 Fabric API
+
+## 安装
+
+1. 安装对应版本的 Fabric Loader 和 Fabric API。
+2. 将模组 JAR 放入游戏实例的 `mods/` 文件夹。
+3. 启动 Minecraft 1.21.1。
 
 ---
 
@@ -48,14 +56,22 @@ The mod also includes **Pizza** as a small easter egg.
 - Steel Balls
 - Four Spin mechanics
 - Spin-related combat and visual effects
-- Pizza food easter egg
+- Pizza food for fun XD
 
-### Installation
+## Requirements
 
-1. Install the appropriate version of **Fabric Loader**.
-2. Install the required **Fabric API**.
-3. Download the mod `.jar` from GitHub Releases or CurseForge.
-4. Place the `.jar` file into your Minecraft `mods` folder.
+- Minecraft Java Edition `1.21.1`
+- Fabric Loader `0.19.3` or later
+- Fabric API
+- Java `21` or later
+- Singleplayer: install the mod and Fabric API on the client
+- Multiplayer: install the same version of the mod and Fabric API on both the server and every client
+
+## Installation
+
+1. Install the appropriate version of Fabric Loader and Fabric API.
+2. Place the mod JAR file into the `mods/` folder of your Minecraft instance.
+3. Launch Minecraft 1.21.1.
 
 ---
 
