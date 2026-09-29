@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "BWB",
+    " W "
+  ],
+  "key": {
+    "R": "minecraft:red_mushroom",
+    "B": "minecraft:bread",
+    "W": "minecraft:wheat"
+  },
+  "result": {
+    "id": "steel_ball_spin:pizza_slice",
+    "count": 1
+  }
+}

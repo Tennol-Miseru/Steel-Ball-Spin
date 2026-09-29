@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "steel_ball_spin:item/pizza_slice"
+  }
+}

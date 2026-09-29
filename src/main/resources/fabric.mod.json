@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "steel_ball_spin",
+  "version": "${version}",
+  "name": "铁球回旋 · Steel Ball Spin",
+  "description": "绿色金属铁球、分阶段蓄力、金色电弧与四种回旋能力。灵感来自 Steel Ball Run。", 
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cn.blockforge.generated.steelballspin.GeneratedMod"
+    ],
+    "client": [
+      "cn.blockforge.generated.steelballspin.client.SpinClient"
+    ]
+  },
+  "mixins": [
+    {
+      "config": "steel_ball_spin.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

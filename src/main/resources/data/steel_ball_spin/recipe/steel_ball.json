@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [" I ", "IEI", " I "],
+  "key": {
+    "I": {"item": "minecraft:iron_ingot"},
+    "E": {"item": "minecraft:emerald"}
+  },
+  "result": {"id": "steel_ball_spin:steel_ball", "count": 1}
+}

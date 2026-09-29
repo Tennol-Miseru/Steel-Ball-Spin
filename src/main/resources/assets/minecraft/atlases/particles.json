@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "steel_ball_spin:effect/trail_1",
+      "sprite": "steel_ball_spin:effect/trail_1"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "steel_ball_spin:effect/trail_2",
+      "sprite": "steel_ball_spin:effect/trail_2"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "steel_ball_spin:effect/trail_3",
+      "sprite": "steel_ball_spin:effect/trail_3"
+    }
+  ]
+}
